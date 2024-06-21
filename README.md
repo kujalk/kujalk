@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- ⚡ Fun fact: I have certified in following
+- ⚡ I am Jana and I have certified in following
 
 ![Certs](certs.png)
 
