@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - ⚡ I am Jana and I have certified in following
-
+![Certs](ccsp_git.png)
 ![Certs](certs.png)
 
 <!--
