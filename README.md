@@ -1,30 +1,64 @@
-## Hi there 👋
+# 👋 Hi, I'm Kugathasan Janarthanan (Jana)
 
-Hi there! I’m Kugathasan Janarthanan (Jana) — a Site Reliability Engineer (SRE) and Infrastructure Developer with over a decade of hands-on experience navigating the ever-evolving tech landscape.
+### 🚀 Site Reliability Engineer | Infrastructure Developer | Cloud Architect | Freelancer
 
-From building scalable cloud architectures to automating complex workflows, my journey spans the realms of Software Development, DevOps, Cloud Automation, and Machine Learning. I’ve worn many hats over the years—engineer, architect, mentor, problem-solver—and every one of them reflects my passion for pushing the boundaries of what’s possible.
+Greetings! I’m a seasoned engineer with **10+ years** of experience delivering high-impact solutions across **Software Development, DevOps, Cloud Automation, and Machine Learning**.
 
-I specialize in a powerful blend of tools and platforms like AWS, Azure, GCP, Kubernetes, Terraform, Python, and beyond. Whether I’m optimizing infrastructure, driving CI/CD pipelines, building backend systems with Golang, or even dabbling in embedded systems and Raspberry Pi, my mission remains the same: to innovate, streamline, and deliver.
+I specialize in building robust, scalable infrastructure using tools like:
 
-By day, I work at a reputed multinational company. By night (and sometimes early morning!), I help clients as a freelancer, automating their cloud journeys across multiple platforms. And now, through this blog, I’m sharing my learnings, real-world solutions, and insights—straight from my terminal to yours.
+- ☁️ **Cloud Platforms**: AWS | GCP | Azure  
+- 🛠️ **DevOps & Automation**: Terraform | Kubernetes | Ansible | Docker | GitHub Actions  
+- 💻 **Languages**: Python | Golang | Bash | PowerShell  
+- 🧠 **ML & Data**: TensorFlow | Scikit-learn | Pandas  
+- 📈 **Monitoring & Logging**: Prometheus | Grafana | Splunk | ELK Stack  
+- 🔌 **Others**: Kafka | Jenkins | PostgreSQL | MySQL | Raspberry Pi
 
-Whether you're a fellow engineer, a curious learner, or just passing by—I hope you find something valuable here. Let’s grow together, one line of code at a time.
+---
+
+### 🔧 What I Do
+
+- 🧱 Architect and automate infrastructure across multi-cloud environments  
+- ⚙️ Design and implement CI/CD pipelines for seamless delivery  
+- 📊 Build ML-driven systems for real-time monitoring and anomaly detection  
+- 🌐 Develop backend systems and secure APIs  
+- 🧑‍🏫 Mentor and support engineering teams with best practices  
+- 🤝 Freelance on automation and cloud migration projects
+
+---
+
+### 📜 Certifications
+
+- ✅ AWS Solutions Architect – Professional  
+- ✅ AWS Certified DevOps Engineer  
+- ✅ AWS Certified Machine Learning – Specialty  
+- ✅ GCP Professional Cloud Architect  
+- ✅ Microsoft Certified: Azure Administrator  
+- ✅ Terraform Associate  
+- ✅ TensorFlow Developer  
+
+---
+
+### 📚 My Blog
+
+I created my [**Tech Blog**](https://your-blog-url.com) to share real-world insights, solutions, and automation tips from my daily work. From SRE practices to cloud-native tools, you’ll find practical knowledge and tutorials to empower your own projects.
+
+---
+
+### 📫 Let’s Connect
+
+- 🌐 [Blog](https://your-blog-url.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+- 🐦 [Twitter](https://twitter.com/your-handle)  
+- 📧 Email: your.email@example.com
+
+---
+
+> _"Real growth begins outside the comfort zone. I thrive on solving challenges, building smart systems, and making technology simple and powerful."_  
+
+Thanks for visiting my profile! ⭐️ Don’t forget to follow and check out my pinned repos!
+
 
 ![Certs](ccsp_git.png)
 
 ![Certs](certs.png)
 
-<!--
-**kujalk/kujalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
