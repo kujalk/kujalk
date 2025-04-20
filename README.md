@@ -9,9 +9,9 @@ I specialize in building robust, scalable infrastructure using tools like:
 - ☁️ **Cloud Platforms**: AWS | GCP | Azure  
 - 🛠️ **DevOps & Automation**: Terraform | Kubernetes | Ansible | Docker | GitHub Actions  
 - 💻 **Languages**: Python | Golang | Bash | PowerShell  
-- 🧠 **ML & Data**: TensorFlow | Scikit-learn | Pandas  
+- 🧠 **ML & Data**: TensorFlow | Scikit-learn | Pandas | AWS SageMaker | LLM 
 - 📈 **Monitoring & Logging**: Prometheus | Grafana | Splunk | ELK Stack  
-- 🔌 **Others**: Kafka | Jenkins | PostgreSQL | MySQL | Raspberry Pi
+- 🔌 **Others**: Active Directory | Kafka | Jenkins | HAProxy | PostgreSQL | MySQL | Raspberry Pi
 
 ---
 
@@ -34,7 +34,7 @@ I specialize in building robust, scalable infrastructure using tools like:
 
 ### 📚 My Blog
 
-I created my [**Tech Blog**](https://your-blog-url.com) to share real-world insights, solutions, and automation tips from my daily work. From SRE practices to cloud-native tools, you’ll find practical knowledge and tutorials to empower your own projects.
+I created my [**Tech Blog**](https://scripting4ever.wordpress.com/) to share real-world insights, solutions, and automation tips from my daily work. From SRE practices to cloud-native tools, you’ll find practical knowledge and tutorials to empower your own projects.
 
 ---
 
