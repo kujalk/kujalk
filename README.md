@@ -28,13 +28,7 @@ I specialize in building robust, scalable infrastructure using tools like:
 
 ### 📜 Certifications
 
-- ✅ AWS Solutions Architect – Professional  
-- ✅ AWS Certified DevOps Engineer  
-- ✅ AWS Certified Machine Learning – Specialty  
-- ✅ GCP Professional Cloud Architect  
-- ✅ Microsoft Certified: Azure Administrator  
-- ✅ Terraform Associate  
-- ✅ TensorFlow Developer  
+![Certs](certs_2025.png)
 
 ---
 
@@ -46,10 +40,9 @@ I created my [**Tech Blog**](https://your-blog-url.com) to share real-world insi
 
 ### 📫 Let’s Connect
 
-- 🌐 [Blog](https://your-blog-url.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 🐦 [Twitter](https://twitter.com/your-handle)  
-- 📧 Email: your.email@example.com
+- 🌐 [Blog](https://scripting4ever.wordpress.com/)  
+- 💼 [LinkedIn](www.linkedin.com/in/janarthanan-kugathasan)   
+- 📧 Email: kugathasan.janarthanan@gmail.com
 
 ---
 
@@ -58,7 +51,5 @@ I created my [**Tech Blog**](https://your-blog-url.com) to share real-world insi
 Thanks for visiting my profile! ⭐️ Don’t forget to follow and check out my pinned repos!
 
 
-![Certs](ccsp_git.png)
 
-![Certs](certs.png)
 
