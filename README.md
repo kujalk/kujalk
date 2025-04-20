@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kugathasan Janarthanan (Jana)
 
-### 🚀 Site Reliability Engineer | Infrastructure Developer | Cloud Architect | Freelancer
+### 🚀 Site Reliability Engineer | Backend Developer | Cloud Architect | Freelancer
 
 Greetings! I’m a seasoned engineer with **10+ years** of experience delivering high-impact solutions across **Software Development, DevOps, Cloud Automation, and Machine Learning**.
 
@@ -11,7 +11,7 @@ I specialize in building robust, scalable infrastructure using tools like:
 - 💻 **Languages**: Python | Golang | Bash | PowerShell  
 - 🧠 **ML & Data**: TensorFlow | Scikit-learn | Pandas | AWS SageMaker | LLM 
 - 📈 **Monitoring & Logging**: Prometheus | Grafana | Splunk | ELK Stack  
-- 🔌 **Others**: Active Directory | Kafka | Jenkins | HAProxy | PostgreSQL | MySQL | Raspberry Pi
+- 🔌 **Others**: Active Directory | React | Kafka | Jenkins | HAProxy | PostgreSQL | MySQL | Raspberry Pi
 
 ---
 
