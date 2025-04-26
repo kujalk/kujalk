@@ -41,7 +41,7 @@ I created my [**Tech Blog**](https://scripting4ever.wordpress.com/) to share rea
 ### 📫 Let’s Connect
 
 - 🌐 [Blog](https://scripting4ever.wordpress.com/)  
-- 💼 [LinkedIn](www.linkedin.com/in/janarthanan-kugathasan)   
+- 💼 [LinkedIn](https://www.linkedin.com/in/janarthanan-kugathasan)   
 - 📧 Email: kugathasan.janarthanan@gmail.com
 
 ---
