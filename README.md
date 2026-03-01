@@ -29,6 +29,7 @@ I specialize in building robust, scalable infrastructure using tools like:
 ### 📜 Certifications
 
 ![Certs](certs_2025.png)
+![Certs]()
 
 ---
 
