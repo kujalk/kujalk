@@ -1,56 +1,129 @@
+<div align="center">
+
 # 👋 Hi, I'm Kugathasan Janarthanan (Jana)
 
-### 🚀  Cloud Identity | Identity & Access Management (IAM) | Backend Developer | Cloud Architect | Freelancer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Cloud+Identity+%7C+IAM+Engineer;Backend+Developer+%7C+Cloud+Architect;Freelancer+%7C+11%2B+Years+of+Experience)](https://git.io/typing-svg)
 
-Greetings! I’m a seasoned engineer with **11+ years** of experience delivering high-impact solutions across **Software Development, DevOps, Cloud Automation, and Machine Learning**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janarthanan-kugathasan)
+[![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://scripting4ever.wordpress.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kugathasan.janarthanan@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=kujalk&color=2196F3&style=for-the-badge&label=PROFILE+VIEWS)
 
-I specialize in building robust, scalable infrastructure using tools like:
+</div>
 
-- ☁️ **Cloud Platforms**: AWS | GCP | Azure  
-- 🛠️ **DevOps & Automation**: Terraform | Kubernetes | Ansible | Docker | GitHub Actions  
-- 💻 **Languages**: Python | Golang | Bash | PowerShell  
-- 🧠 **ML & Data**: TensorFlow | Scikit-learn | Pandas | AWS SageMaker | LLM 
-- 📈 **Monitoring & Logging**: Prometheus | Grafana | Splunk | ELK Stack  
-- 🔌 **Others**: Active Directory | React | Kafka | Jenkins | HAProxy | Ansible | Unix | PostgreSQL | MySQL | Raspberry Pi | SCIM
+Greetings! I'm a seasoned engineer with **11+ years** of experience delivering high-impact solutions across **Software Development, DevOps, Cloud Automation, and Machine Learning**.
+
+---
+
+### 🛠️ Tech Stack
+
+**Cloud Platforms**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+**DevOps & Automation**
+
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+
+**ML & Data**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![AWS SageMaker](https://img.shields.io/badge/SageMaker-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**Monitoring & Logging**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+**Other Tools & Platforms**
+
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![HAProxy](https://img.shields.io/badge/HAProxy-106DA9?style=for-the-badge&logo=haproxy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![SCIM](https://img.shields.io/badge/SCIM-4B0082?style=for-the-badge)
 
 ---
 
 ### 🔧 What I Do
 
-- 🧱 Architect and automate infrastructure across multi-cloud environments  
-- ⚙️ Design and implement CI/CD pipelines for seamless delivery  
-- 📊 Build ML-driven systems for real-time monitoring and anomaly detection  
-- 🌐 Develop backend systems and secure APIs  
-- 🧑‍🏫 Mentor and support engineering teams with best practices  
+- 🧱 Architect and automate infrastructure across multi-cloud environments
+- ⚙️ Design and implement CI/CD pipelines for seamless delivery
+- 📊 Build ML-driven systems for real-time monitoring and anomaly detection
+- 🌐 Develop backend systems and secure APIs
+- 🧑‍🏫 Mentor and support engineering teams with best practices
 - 🤝 Freelance on automation and cloud migration projects
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kujalk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jana's GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kujalk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kujalk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 ---
 
 ### 📜 Certifications
 
+<div align="center">
+
 ![Certs_1](certs_2025.png)
 ![Certs_2](cert_2025_2026_early.png)
+
+</div>
 
 ---
 
 ### 📚 My Blog
 
-I created my [**Tech Blog**](https://scripting4ever.wordpress.com/) to share real-world insights, solutions, and automation tips from my daily work. From SRE practices to cloud-native tools, you’ll find practical knowledge and tutorials to empower your own projects.
+I created my [**Tech Blog**](https://scripting4ever.wordpress.com/) to share real-world insights, solutions, and automation tips from my daily work. From SRE practices to cloud-native tools, you'll find practical knowledge and tutorials to empower your own projects.
 
 ---
 
-### 📫 Let’s Connect
+### 📫 Let's Connect
 
-- 🌐 [Blog](https://scripting4ever.wordpress.com/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/janarthanan-kugathasan)   
-- 📧 Email: kugathasan.janarthanan@gmail.com
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janarthanan-kugathasan)
+[![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://scripting4ever.wordpress.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kugathasan.janarthanan@gmail.com)
+
+</div>
 
 ---
 
-> _"Real growth begins outside the comfort zone. I thrive on solving challenges, building smart systems, and making technology simple and powerful."_  
+<div align="center">
 
-Thanks for visiting my profile! ⭐️ Don’t forget to follow and check out my pinned repos!
+> _"Real growth begins outside the comfort zone. I thrive on solving challenges, building smart systems, and making technology simple and powerful."_
 
+Thanks for visiting my profile! ⭐️ Don't forget to follow and check out my pinned repos!
 
-
-
+</div>
