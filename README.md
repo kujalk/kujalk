@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Kugathasan Janarthanan (Jana)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Cloud+Identity+%7C+IAM+Engineer;Backend+Developer+%7C+Cloud+Architect;Freelancer+%7C+11%2B+Years+of+Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Identity+%26+Access+Management+(IAM)+Engineer;Active+Directory+(LDAP%2FKerberos)+%7C+AWS+IAM;GCP+Workload+Identity+Federation+%7C+OIDC%2FSSO;Cloud+Architect+%7C+11%2B+Years+of+Experience)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janarthanan-kugathasan)
 [![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://scripting4ever.wordpress.com/)
@@ -11,7 +11,21 @@
 
 </div>
 
-Greetings! I'm a seasoned engineer with **11+ years** of experience delivering high-impact solutions across **Software Development, DevOps, Cloud Automation, and Machine Learning**.
+Greetings! I'm an **Identity & Access Management (IAM) Engineer** with **11+ years** of experience designing, securing, and scaling authentication and authorization infrastructure across hybrid and multi-cloud environments.
+
+My core focus is **Active Directory (LDAP/Kerberos)**, **AWS IAM**, **GCP Workload Identity Federation**, and **OIDC/SSO** — backed by a broader background in Cloud Automation, DevOps, Backend Development, and Machine Learning.
+
+---
+
+### 🔐 Identity & Access Management
+
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![LDAP](https://img.shields.io/badge/LDAP-1A1918?style=for-the-badge)
+![Kerberos](https://img.shields.io/badge/Kerberos-6E4C13?style=for-the-badge)
+![AWS IAM](https://img.shields.io/badge/AWS%20IAM-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP Workload Identity Federation](https://img.shields.io/badge/GCP%20Workload%20Identity%20Federation-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![OIDC](https://img.shields.io/badge/OIDC-F78C40?style=for-the-badge&logo=openid&logoColor=white)
+![SCIM](https://img.shields.io/badge/SCIM-4B0082?style=for-the-badge)
 
 ---
 
@@ -56,38 +70,26 @@ Greetings! I'm a seasoned engineer with **11+ years** of experience delivering h
 
 **Other Tools & Platforms**
 
-![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![HAProxy](https://img.shields.io/badge/HAProxy-106DA9?style=for-the-badge&logo=haproxy&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
-![SCIM](https://img.shields.io/badge/SCIM-4B0082?style=for-the-badge)
 
 ---
 
 ### 🔧 What I Do
 
+- 🔐 Design and harden identity architectures spanning Active Directory, LDAP, and Kerberos
+- 🔑 Implement least-privilege AWS IAM (roles, policies, STS, permission boundaries) and GCP Workload Identity Federation for keyless, short-lived cloud access
+- 🪪 Build OIDC/SSO integrations and automate identity lifecycle & provisioning with SCIM
 - 🧱 Architect and automate infrastructure across multi-cloud environments
 - ⚙️ Design and implement CI/CD pipelines for seamless delivery
 - 📊 Build ML-driven systems for real-time monitoring and anomaly detection
 - 🌐 Develop backend systems and secure APIs
 - 🧑‍🏫 Mentor and support engineering teams with best practices
-- 🤝 Freelance on automation and cloud migration projects
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kujalk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jana's GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kujalk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kujalk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
+- 🤝 Freelance on IAM, automation, and cloud migration projects
 
 ---
 
@@ -104,7 +106,7 @@ Greetings! I'm a seasoned engineer with **11+ years** of experience delivering h
 
 ### 📚 My Blog
 
-I created my [**Tech Blog**](https://scripting4ever.wordpress.com/) to share real-world insights, solutions, and automation tips from my daily work. From SRE practices to cloud-native tools, you'll find practical knowledge and tutorials to empower your own projects.
+I created my [**Tech Blog**](https://scripting4ever.wordpress.com/) to share real-world insights, solutions, and automation tips from my daily work. From identity & access management to SRE practices and cloud-native tools, you'll find practical knowledge and tutorials to empower your own projects.
 
 ---
 
